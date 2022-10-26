@@ -1,3 +1,8 @@
+## Correlation Pooling
+The code from our paper
+[*Extracting speaker and emotion information from self-supervised speech models via channel-wise correlations*](https://arxiv.org/abs/2210.09513)
+can be found here.
+
 <p align="center">
     <img src="./file/S3PRL-logo.png" width="900"/>
     <br>
